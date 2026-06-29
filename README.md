@@ -49,7 +49,7 @@ anamul = {
 
 <div align="center">
 
-![Anamul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anamulbrain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=06b6d4&icon_color=7c3aed&text_color=ffffff)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamulbrain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=06b6d4&text_color=ffffff)
 
