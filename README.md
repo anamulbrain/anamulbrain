@@ -24,7 +24,7 @@ I'm a **full-stack AI engineer** with a decade-plus track record of delivering p
 ```python
 anamul = {
     "ai_ml":        ["LLMs", "RAG Systems", "Fine-tuning", "Agentic AI", "MLOps"],
-    "cloud":        ["AWS (Advanced)", "Serverless", "IaC", "CI/CD", "Terraform"],
+    "cloud":        ["AWS", "Serverless", "IaC", "CI/CD", "Terraform"],
     "engineering":  ["Python", "Django", "FastAPI", "Microservices", "REST/GraphQL"],
     "domains":      ["IoT Systems", "Payment Infrastructure", "Product Engineering"],
     "approach":     "Build fast. Scale smart. Ship with confidence.",
