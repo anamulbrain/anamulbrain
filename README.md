@@ -108,8 +108,7 @@ anamul = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-anamulbrain-181717?style=for-the-badge&logo=github)](https://github.com/anamulbrain)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anamulbrain)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/anamulbrain)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamulbrain@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamul@salesbotics.io)
 
 </div>
 
